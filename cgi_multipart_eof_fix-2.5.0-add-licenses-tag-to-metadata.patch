@@ -1,0 +1,10 @@
+--- rubygem-cgi_multipart_eof_fix-2.5.0/metadata.licenses~	2012-02-16 02:34:46.111015623 +0100
++++ rubygem-cgi_multipart_eof_fix-2.5.0/metadata	2012-02-16 02:35:05.727043724 +0100
+@@ -15,6 +15,7 @@ description: Fix an exploitable bug in C
+ autorequire: 
+ default_executable: 
+ bindir: bin
++licenses: []
+ has_rdoc: true
+ required_ruby_version: !ruby/object:Gem::Requirement 
+   requirements: 
