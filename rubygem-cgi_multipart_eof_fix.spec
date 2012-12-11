@@ -46,3 +46,16 @@ gzip metadata
 %files doc
 %{ruby_gemdir}/doc/%{rbname}-%{version}
 
+
+
+%changelog
+* Thu Feb 16 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.5.0-2
++ Revision: 774704
+- initial release..
+- imported package rubygem-cgi_multipart_eof_fix
+
+* Mon Dec 20 2010 Rémy Clouard <shikamaru@mandriva.org> 2.5.0-1mdv2011.0
++ Revision: 623458
+- import rubygem-cgi_multipart_eof_fix
+
+
