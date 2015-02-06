@@ -5,7 +5,7 @@ Summary:	Fix an exploitable bug in CGI multipart parsing
 Name:		rubygem-%{rbname}
 
 Version:	2.5.0
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	AFL
 URL:		http://blog.evanweaver.com/pages/code#cgi_multipart_eof_fix
