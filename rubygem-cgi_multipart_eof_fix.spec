@@ -8,7 +8,7 @@ Version:	2.5.0
 Release:	3
 Group:		Development/Ruby
 License:	AFL
-URL:		http://blog.evanweaver.com/pages/code#cgi_multipart_eof_fix
+URL:		https://blog.evanweaver.com/pages/code#cgi_multipart_eof_fix
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 Patch0:		cgi_multipart_eof_fix-2.5.0-add-licenses-tag-to-metadata.patch
 BuildRequires:	rubygems 
